@@ -7,7 +7,7 @@ function App() {
   return (
   <>
   <Particles />
-  <Navbar />
+  <Navbar title="Vishwajit" />
   </>
   
   );
